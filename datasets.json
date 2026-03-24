@@ -220,7 +220,7 @@
     "task": "Cls",
     "diseases": "Monkeypox",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -236,7 +236,7 @@
     "task": "NA",
     "diseases": "Vitiligo",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -349,7 +349,7 @@
     "diseases": "NA",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "‍ OCT",
@@ -365,7 +365,7 @@
     "diseases": "Diabetic Retinopathy",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "‍ OCT",
@@ -381,7 +381,7 @@
     "diseases": "NA",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "‍ OCT",
@@ -557,7 +557,7 @@
     "diseases": "Diabetic Retinopathy",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Infrared",
@@ -781,7 +781,7 @@
     "diseases": "Lung COVID-19",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "CT Datasets",
@@ -797,7 +797,7 @@
     "diseases": "Lung COVID-19",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "CT Datasets",
@@ -813,7 +813,7 @@
     "diseases": "Lung Cancer",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "CT Datasets",
@@ -829,7 +829,7 @@
     "diseases": "Intracranial Hemorrhage",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "CT Datasets",
@@ -845,7 +845,7 @@
     "diseases": "Lung Disease",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "CT Datasets",
@@ -1036,7 +1036,7 @@
     "task": "Seg",
     "diseases": "NA",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -1052,7 +1052,7 @@
     "task": "Cls",
     "diseases": "NA",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -1453,7 +1453,7 @@
     "diseases": "Lung diseases",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "X-ray Datasets",
@@ -1804,7 +1804,7 @@
     "task": "Cls",
     "diseases": "NA",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -1820,7 +1820,7 @@
     "task": "Cls",
     "diseases": "COVID-19",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -1853,7 +1853,7 @@
     "diseases": "Lung diseases",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "X-ray Datasets",
@@ -2173,7 +2173,7 @@
     "diseases": "Brain Tumor",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "MRI Datasets",
@@ -2189,7 +2189,7 @@
     "diseases": "Brain Disease",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "MRI Datasets",
@@ -2205,7 +2205,7 @@
     "diseases": "Spinal Disease",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "MRI Datasets",
@@ -2332,7 +2332,7 @@
     "task": "Seg",
     "diseases": "Cardiac Disease",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -2733,7 +2733,7 @@
     "diseases": "NA",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Fundus Photography",
@@ -2749,7 +2749,7 @@
     "diseases": "Diabetic Retinopathy",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Fundus Photography",
@@ -3228,7 +3228,7 @@
     "task": "Cls",
     "diseases": "NA",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -3869,7 +3869,7 @@
     "diseases": "Lymphoma",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Histopathology",
@@ -3901,7 +3901,7 @@
     "diseases": "Breast Cancer",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Histopathology",
@@ -4572,7 +4572,7 @@
     "task": "Cls",
     "diseases": "HEp-2 Cells",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4588,7 +4588,7 @@
     "task": "Seg",
     "diseases": "Breast Cancer",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4636,7 +4636,7 @@
     "task": "Seg",
     "diseases": "Breast cancer",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4652,7 +4652,7 @@
     "task": "Cls",
     "diseases": "Lymphoma",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4668,7 +4668,7 @@
     "task": "Cls",
     "diseases": "Lung and Colon Cancer",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4684,7 +4684,7 @@
     "task": "IQA",
     "diseases": "Histopathology Image",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -4700,7 +4700,7 @@
     "task": "Det",
     "diseases": "Blood Cell",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -5949,7 +5949,7 @@
     "diseases": "Polyp",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Endoscopy",
@@ -5965,7 +5965,7 @@
     "diseases": "NA",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Endoscopy",
@@ -6445,7 +6445,7 @@
     "diseases": "NA",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Microscopy",
@@ -6461,7 +6461,7 @@
     "diseases": "Blood",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Microscopy",
@@ -6477,7 +6477,7 @@
     "diseases": "Leukemia",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Microscopy",
@@ -6780,7 +6780,7 @@
     "task": "Det",
     "diseases": "NA",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -6796,7 +6796,7 @@
     "task": "Det",
     "diseases": "Tuberculosis",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -7276,7 +7276,7 @@
     "task": "Cls",
     "diseases": "Brain Tumor",
     "access": "registration",
-    "download_method": "Download from Heywhale (和鲸) dataset page after login",
+    "download_method": "Download from the Heywhale dataset page after login",
     "auth_instructions": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
   },
   {
@@ -8269,7 +8269,7 @@
     "diseases": "COVID-19 infection",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "3D CT Datasets",
@@ -10397,7 +10397,7 @@
     "diseases": "Soft-tissue sarcomas (preprocessed)",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "3D CT Datasets",
@@ -14189,7 +14189,7 @@
     "diseases": "Cardiac conditions",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "3D MR Datasets",
@@ -16173,7 +16173,7 @@
     "diseases": "Soft-tissue sarcomas (preprocessed)",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "3D PET Datasets",
@@ -17213,7 +17213,7 @@
     "diseases": "Retinal diseases",
     "access": "registration",
     "download_method": "Download from the Tianchi dataset page after login",
-    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+    "auth_instructions": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
   },
   {
     "section": "Video Datasets",

@@ -121,17 +121,17 @@ After presenting results from Step 5, do ONE targeted web search to fill gaps.
 5. Mark web-sourced additions clearly in the output:
    ```
    | Dataset | Year | ... | Access | Link | Source |
-   | ...     | ...  | ... | ...    | ...  | 📚 索引 |
-   | ...     | ...  | ... | ...    | ...  | 🔍 网络补充 |
+   | ...     | ...  | ... | ...    | ...  | index |
+   | ...     | ...  | ... | ...    | ...  | web supplement |
    ```
 6. For web-sourced datasets, the access type is unknown unless you can
    infer it from the URL pattern (apply the same `access_rules.json` logic).
-7. If the web search finds nothing new, say "索引结果已较全面，网络补充搜索未发现额外数据集。"
+7. If the web search finds nothing new, say: "The index already covers this query well; the supplementary web search did not find additional datasets."
 
 **When to definitely search:**
 - The index returned 0 results
 - The query is for a very specific / rare disease or a very new modality (e.g., photoacoustic imaging)
-- The user explicitly asks "有没有更新的" or "还有别的吗"
+- The user explicitly asks for newer or additional datasets (e.g., "anything more recent?", "any others?")
 
 **When to skip:**
 - The index returned ≥ 5 matches covering the query well
@@ -142,7 +142,7 @@ After presenting results from Step 5, do ONE targeted web search to fill gaps.
 After presenting results, offer to help download. Follow this decision tree:
 
 **For `access: "open"` datasets:**
-1. Tell the user: "以下数据集可直接下载，是否需要我帮你下载？" and list the open ones.
+1. Tell the user that the listed datasets can be downloaded directly and ask whether they want help downloading, then list the open ones.
 2. The user must explicitly confirm before you execute any download command.
    (Cursor's tool-use approval dialog serves as the permission gate — every Shell
    command the agent proposes is shown to the user who must click "Allow".)
@@ -160,7 +160,7 @@ After presenting results, offer to help download. Follow this decision tree:
 **For `access: "registration"` datasets:**
 1. Do NOT attempt to download. Instead, present the `auth_instructions` field clearly:
    ```
-   ⚠️ 此数据集需要注册才能下载。步骤如下：
+   Registration required before download. Steps:
    <auth_instructions content>
    ```
 2. If the user says they already have credentials (e.g., Kaggle API key configured),
@@ -173,13 +173,13 @@ After presenting results, offer to help download. Follow this decision tree:
 **For `access: "application"` datasets:**
 1. Do NOT attempt to download. Present the `auth_instructions` and emphasize:
    ```
-   🔒 此数据集需要正式申请并经审批后才能获取。
+   Formal application and approval are required before access.
    <auth_instructions content>
-   预计审批时间：通常 1-4 周。
+   Typical approval time: often 1–4 weeks.
    ```
 
 **For `access: "unknown"` datasets:**
-1. Say: "该数据集的访问方式未能自动识别，请访问数据集主页确认下载方式。"
+1. Say that access could not be determined automatically and the user should check the official dataset page for download instructions.
 2. Offer to open/fetch the URL to check the page and determine access type at runtime.
 
 **Download safety rules:**

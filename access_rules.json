@@ -59,12 +59,12 @@
       "pattern": "tianchi.aliyun.com",
       "access": "registration",
       "method": "Download from the Tianchi dataset page after login",
-      "auth": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Login and navigate to the dataset page\n3) Click '下载' (Download) — some datasets require joining a competition first"
+      "auth": "1) Register an Alibaba Cloud (Aliyun) account at tianchi.aliyun.com\n2) Log in and open the dataset page\n3) Click Download — some datasets require joining a competition first"
     },
     {
       "pattern": "heywhale.com",
       "access": "registration",
-      "method": "Download from Heywhale (和鲸) dataset page after login",
+      "method": "Download from the Heywhale dataset page after login",
       "auth": "1) Register at heywhale.com\n2) Login and navigate to the dataset page\n3) Click 'Download' or use their notebook environment"
     },
     {

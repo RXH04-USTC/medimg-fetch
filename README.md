@@ -49,19 +49,19 @@ The entry point is `SKILL.md`. How you load it depends on your agent framework:
 | **Claude (MCP / tool-use)** | Include `SKILL.md` as a system prompt appendix, or point a file-reading tool at it |
 | **Custom agent** | Have your agent read `SKILL.md` at startup; it will know to load `datasets.json` and `access_rules.json` from the same directory |
 
-### 3. Talk to it
+### 3. Example queries
 
 ```
-帮我找所有公开的肾脏肿瘤影像数据集，不限模态
+Find all public kidney tumor imaging datasets, any modality
 ```
 ```
 I need brain MRI segmentation datasets for glioma, preferably multi-center
 ```
 ```
-找国内平台（天池、和鲸）上的胸部CT数据集
+Chest CT datasets on Chinese platforms (Tianchi, Heywhale)
 ```
 ```
-有没有消化道息肉的内镜视频数据集？
+Endoscopy video datasets for gastrointestinal polyp detection
 ```
 
 ## How It Works
@@ -112,7 +112,7 @@ medimg-fetch/
 
 ### Key files explained
 
-**`SKILL.md`** — The agent reads this to understand its task. Contains the 6-step retrieval workflow, matching heuristics, output format, download decision tree, and safety rules. Any agent that can read a markdown file can use this.
+**`SKILL.md`** — The agent reads this to understand its task. Contains the full retrieval workflow (index search, optional web supplement, download assistance), matching heuristics, output format, download decision tree, and safety rules. Any agent that can read a markdown file can use this.
 
 **`datasets.json`** — Each record looks like:
 ```json
