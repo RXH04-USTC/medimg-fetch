@@ -1,5 +1,5 @@
 ---
-name: medimg-fetch
+name: medical-imaging-fetch
 description: >-
   Search, recommend, and download open medical imaging datasets.
   Backed by a structured index of 1100+ datasets from Project-Imaging-X
@@ -11,7 +11,7 @@ description: >-
   medical imaging related dataset query.
 ---
 
-# medimg-fetch — Medical Image Dataset Discovery & Download
+# Medical-imaging-fetch — Medical Image Dataset Discovery & Download
 
 ## Data Source
 

@@ -1,4 +1,4 @@
-# medimg-fetch
+# Medical-imaging-fetch
 
 An agent skill that enables AI assistants to **discover, evaluate, and download** open medical imaging datasets through natural language. Works with any agent framework that supports skill/tool loading — Cursor, OpenAI Codex, Claude, custom agents, etc.
 
@@ -35,7 +35,7 @@ Access breakdown: 🟢 Open 439 · 🟡 Registration 395 · 🔴 Application 7 �
 ### 1. Get the files
 
 ```bash
-git clone https://github.com/RXH04-USTC/medimg-fetch.git
+git clone https://github.com/RXH04-USTC/medical-imaging-fetch.git
 ```
 
 ### 2. Load into your agent
@@ -101,7 +101,7 @@ User query (natural language)
 ## File Structure
 
 ```
-medimg-fetch/
+medical-imaging-fetch/
 ├── SKILL.md              # Core instructions for the agent
 ├── datasets.json         # Structured index (1,100+ datasets, 14 fields)
 ├── access_rules.json     # 25 platform rules: URL pattern → access type + auth guide
