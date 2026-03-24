@@ -35,7 +35,7 @@ Access breakdown: 🟢 Open 439 · 🟡 Registration 395 · 🔴 Application 7 �
 ### 1. Get the files
 
 ```bash
-git clone https://github.com/<your-username>/medimg-fetch.git
+git clone https://github.com/RXH04-USTC/medimg-fetch.git
 ```
 
 ### 2. Load into your agent
